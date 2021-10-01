@@ -1,4 +1,4 @@
-### Hi there, let's guthubbing...a little bit 👋
+### Hi there, let's githubbing...a little bit 👋
 
 <!--
 **Offych/Offych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
